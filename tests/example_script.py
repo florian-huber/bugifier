@@ -1,4 +1,4 @@
-abc = 56
-def = 67
+variable1 = 56
+variable2 = 67
 
 print("it's running")

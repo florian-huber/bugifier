@@ -22,9 +22,9 @@ setup(
     long_description_content_type='text/markdown',
     author="Florian Huber",
     author_email="florian.huber@hs-duesseldorf.de",
-    url="https://github.com/florian-huber/stacked-sparse-array",
+    url="https://github.com/florian-huber/bugifier",
     packages=find_packages(exclude=['*tests*']),
-    package_data={"stacked-sparse-array": ["data/*.csv"]},
+    package_data={"bugifier": ["data/*.csv"]},
     license="MIT",
     zip_safe=False,
     classifiers=[
